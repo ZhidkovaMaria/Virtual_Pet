@@ -1,1 +1,1 @@
-# **Создание приложения виртуального питомца для гаджетов на платформе Android**
+## HSE Lyceum IT Projects - Virtual_Pet
